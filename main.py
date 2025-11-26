@@ -3,7 +3,8 @@ class No:
         self.dado = dado
         self.proximo = None
 
-
+ # Implementa uma estrutura de dados fundamental de lista encadeada, insertion sort
+ # usada para guardar o histórico de estados do texto. Cada vez que você altera algo, o estado anterior é "empilhado".
 class Pilha:
     def __init__(self):
         self.topo = None
@@ -26,7 +27,7 @@ class Pilha:
     def limpar(self):
         self.topo = None
 
-
+# cérebro do editor
 class EditorTexto:
     def __init__(self):
         self.texto = ""
@@ -63,23 +64,3 @@ class EditorTexto:
 
 
 editor = EditorTexto()
-
-editor.escrever("Olá")
-print(editor.mostrar())
-editor.escrever(" Mundo")
-print(editor.mostrar())  # Olá Mundo
-
-editor.desfazer()
-print(editor.mostrar())  # Olá
-
-editor.refazer()
-print(editor.mostrar())  # Olá Mundo
-
-editor.apagar(5)
-print(editor.mostrar())  # Olá
-editor.desfazer()
-print(editor.mostrar()) # Olá Mundo
-editor.desfazer()
-print(editor.mostrar())
-editor.desfazer()
-print(editor.mostrar())
