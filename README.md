@@ -6,12 +6,6 @@ Uma aplicação desktop simples desenvolvida em Python que demonstra a implement
 
 Este projeto tem como foco o estudo e validação de conceitos de **Big O** e manipulação de memória através de estruturas de dados.
 
-> **Descrição Teórica:**
-> O projeto implementa uma lista encadeada simples (adaptada aqui como Pilha para o histórico de ações) e estrutura a base para validações algorítmicas, como o **Insertion Sort**. O objetivo é demonstrar a inserção e manipulação de elementos (neste contexto, caracteres ou estados do editor) na posição correta.
->
-> **Análise de Complexidade:**
-> *   **Geral:** O(n²)
-> *   **Melhor Caso (Parcialmente Ordenada):** O(n)
 
 ## Funcionalidades
 
