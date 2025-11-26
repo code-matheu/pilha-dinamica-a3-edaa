@@ -15,12 +15,12 @@ Este projeto tem como foco o estudo e validação de conceitos de **Big O** e ma
 
 ## Funcionalidades
 
-A aplicação funciona como um editor de texto funcional com estética "Retrô Pastel", possuindo as seguintes características:
+A aplicação funciona como um editor de texto funcional com estética "Retrô", possuindo as seguintes características:
 
 *   **Edição de Texto:** Adição de texto via campo de entrada (Input) sincronizado com a tecla `Enter`.
 *   **Histórico de Ações (Undo/Redo):** Implementação de **Pilhas (Stacks)** baseadas em **Listas Encadeadas (Linked Lists)** para gerenciar o histórico de alterações (`Desfazer` e `Refazer`), permitindo navegação temporal no texto.
 *   **Persistência:** Funcionalidade de salvar o arquivo em formato `.txt`.
-*   **Interface Gráfica (GUI):** Interface construída com `Tkinter`, utilizando uma paleta de cores pastéis para melhor usabilidade e estética.
+*   **Interface Gráfica (GUI):** Interface construída com `Tkinter`.
 
 ## Estrutura do Projeto
 
@@ -28,12 +28,14 @@ A aplicação funciona como um editor de texto funcional com estética "Retrô P
 *   `editor_texto.py`: Contém a interface gráfica (`EditorTextoGUI`) e a integração com o usuário. É o ponto de entrada da aplicação.
 ---
 ## Integrantes  
-| Nome | RA | GitHub |
-|----|---------|---------|
-| |  |  |
-| |  |  |
-| |  |  |
-| Rafaela Araujo Fontoura da Rosa | 10724112362 | https://github.com/RafaArauj |
+| Nome                            | RA          | GitHub                             |
+|---------------------------------|-------------|------------------------------------|
+| Gustavo Costa Dias de Oliveira  | 10724112823 | https://github.com/gustavoocosta10 |
+| José Gustavo de Almeida Alve    | 10724114382 | https://github.com/Gustavoaals     |
+| Leonardo                        |             |                                    |
+| Matheus Bernardo de souza| 10724114182 | https://github.com/code-matheu     |
+| Rafaela Araujo Fontoura da Rosa | 10724112362 | https://github.com/RafaArauj       |
+| Victor Emanoel Azevedo          | 10724116745 | https://github.com/vitumakonha     |
 
 ---
 
@@ -50,8 +52,8 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 
 1.  **Clone o repositório** (ou baixe os arquivos):
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone git@github.com:code-matheu/pilha-dinamica-a3-edaa.git
+    cd pilha-dinamica-a3-edaa
     ```
 
 2.  **Verifique os arquivos:**
