@@ -32,8 +32,8 @@ A aplicação funciona como um editor de texto funcional com estética "Retrô",
 |---------------------------------|-------------|------------------------------------|
 | Gustavo Costa Dias de Oliveira  | 10724112823 | https://github.com/gustavoocosta10 |
 | José Gustavo de Almeida Alve    | 10724114382 | https://github.com/Gustavoaals     |
-| Leonardo                        |             |                                    |
-| Matheus Bernardo de souza| 10724114182 | https://github.com/code-matheu     |
+| Leonardo Schmitt Cardoso        | 1072411180  | https://github.com/SchmittLeonardo |
+| Matheus Bernardo de souza       | 10724114182 | https://github.com/code-matheu     |
 | Rafaela Araujo Fontoura da Rosa | 10724112362 | https://github.com/RafaArauj       |
 | Victor Emanoel Azevedo          | 10724116745 | https://github.com/vitumakonha     |
 
